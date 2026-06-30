@@ -1,4 +1,6 @@
 # 🌾 Farm AI Assistant
+![Uploading agent_workflow.png…]()
+
 
 An AI-powered Farm Advice Assistant built using **Google Agent Development Kit (ADK)** and **Gemini 2.5 Flash**.
 
@@ -28,6 +30,7 @@ The assistant helps farmers make informed agricultural decisions by providing cr
 ---
 
 ## 🛠️ Tech Stack
+<img width="768" height="512" alt="tech_stack" src="https://github.com/user-attachments/assets/73a5a6a3-0e63-4769-b48c-c7380270f5ab" />
 
 - Python 3.13
 - Google Agent Development Kit (ADK)
@@ -63,6 +66,8 @@ farm-advice-agent/
 ├── pyproject.toml
 └── README.md
 ```
+<img width="768" height="512" alt="system_architecture" src="https://github.com/user-attachments/assets/6eb7c3f1-8279-409c-a03b-f410b6dbd6b2" />
+
 
 ---
 
@@ -150,6 +155,7 @@ uv run python app/fast_api_app.py
 ---
 
 ## 📊 Database
+<img width="768" height="512" alt="database_schema" src="https://github.com/user-attachments/assets/a60919d0-b3c2-46a4-bedd-cdce23d14f5c" />
 
 SQLite stores structured agricultural knowledge including:
 
