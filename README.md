@@ -1,5 +1,6 @@
 # 🌾 Farm AI Assistant
-![Uploading agent_workflow.png…]()
+<img width="768" height="512" alt="agent_workflow" src="https://github.com/user-attachments/assets/65c6c8da-071e-4b5f-be36-189d50b067f4" />
+
 
 
 An AI-powered Farm Advice Assistant built using **Google Agent Development Kit (ADK)** and **Gemini 2.5 Flash**.
